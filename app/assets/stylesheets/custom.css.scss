@@ -53,3 +53,11 @@ body {
 		margin:0;
 	}
 }
+
+.jumbotron {
+	background-image: url('jumbotron.jpg');
+	color: #eee;
+	h1, h2 {
+		font-family: guardian-egyptt, georgia, serif;
+	}
+}
